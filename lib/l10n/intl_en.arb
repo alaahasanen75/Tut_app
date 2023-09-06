@@ -1,0 +1,13 @@
+{
+    "email":"email",
+    "login":"LOGIN",
+    "password":"password",
+    "not_amember":"Not amember ? sign up",
+    "for_get_password":"ForgetPassword ?",
+    "change_language":"Change Language",
+    "contact_us":"Contact Us",
+    "invit_frindes":"Invite Frindes",
+    "logout":"LogOut",
+    "Reset_Password":"ResetPassword"
+
+}
